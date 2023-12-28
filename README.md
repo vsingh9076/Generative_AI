@@ -1,2 +1,4 @@
 # Generative_AI
 Learn the fundamentals of building Generative AI applications
+
+Miro Board : https://miro.com/welcomeonboard/cERMMWR6akZ2cWhFRkxFSjVNaWRNSnAwTzhPUTJyaDBlSDJkZGYwMzBlTkhTY2ZlOWhDazJ2cE9PeUs1cFJiTnwzNDU4NzY0NTc0MzE3ODQ1NTUyfDI=?share_link_id=516540513733
